@@ -13,7 +13,7 @@ Google Chrome Plugin Configuration
 
     > 好用的浏览器代理管理插件。
 
-    :link:备份文件下载链接：[SwitchOmega backup](https://raw.githubusercontent.com/Higher-Stark/ChromePluginConfig/master/SwitchOmage/OmegaOptions.bak "OmegaOptions.bak")
+    :link:备份文件下载链接：[SwitchOmega backup](https://raw.githubusercontent.com/Higher-Stark/ChromePluginConfig/master/SwitchOmega/OmegaOptions.bak "OmegaOptions.bak")
 
     :new:最近更新: 2019/03/11
 
