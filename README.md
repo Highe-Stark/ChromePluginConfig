@@ -1,7 +1,7 @@
 Google Chrome Plugin Configuration
 ==================================
 
-* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo "Find Tampermonkey on Google Chrome Web Store")
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo "Find Tampermonkey on Google Chrome Web Store") ![Tampermonkey](https://lh3.googleusercontent.com/DpTJugPMhvs5tta9Wtpwj9iASQ2sM2ncKfKHnXzc0Z3CHOoH_0QMSmcpgFPaszJcq1uP0acr8A=w128-h128-e365)
 
     > 一个极其好用的用户自定义Js脚本管理器。
 
@@ -9,7 +9,7 @@ Google Chrome Plugin Configuration
 
     :new:最近更新: 2019/03/11
 
-* [SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "Find SwitchOmega on Google Chrome Web Store")
+* [SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "Find SwitchOmega on Google Chrome Web Store") ![SwitchOmega](https://lh3.googleusercontent.com/XE_kIwfBmZMQ5VKa3UcyRdKB5U4G0BNW1og0YtilfH1quZg8S2NUc2rx2EHUty5KW0T_GjMg=w128-h128-e365)
 
     > 好用的浏览器代理管理插件。
 
@@ -17,7 +17,7 @@ Google Chrome Plugin Configuration
 
     :new:最近更新: 2019/03/11
 
-* [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe "Find Stylish on Google Chrome Web Store")
+* [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe "Find Stylish on Google Chrome Web Store") ![Stylish](https://lh3.googleusercontent.com/l2cX0Gw78zVPxoM72lgcpPoPyQanoDVXaonIPdYP5qgy0gqm0yKU7EqfnBbDF1tWJCEslm2VM1A=w128-h128-e365)
 
     > 优秀的网页CSS样式管理器。
 
