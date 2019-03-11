@@ -9,11 +9,11 @@ Google Chrome Plugin Configuration
 
     :new:最近更新: 2019/03/11
 
-* [SwitchOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "Find SwitchOmega on Google Chrome Web Store") ![SwitchOmega](https://lh3.googleusercontent.com/XE_kIwfBmZMQ5VKa3UcyRdKB5U4G0BNW1og0YtilfH1quZg8S2NUc2rx2EHUty5KW0T_GjMg=w128-h128-e365)
+* [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "Find SwitchyOmega on Google Chrome Web Store") ![SwitchOmega](https://lh3.googleusercontent.com/XE_kIwfBmZMQ5VKa3UcyRdKB5U4G0BNW1og0YtilfH1quZg8S2NUc2rx2EHUty5KW0T_GjMg=w128-h128-e365)
 
     > 好用的浏览器代理管理插件。
 
-    :link:备份文件下载链接：[SwitchOmega backup](https://raw.githubusercontent.com/Higher-Stark/ChromePluginConfig/master/SwitchOmega/OmegaOptions.bak "OmegaOptions.bak")
+    :link:备份文件下载链接：[SwitchyOmega backup](https://raw.githubusercontent.com/Higher-Stark/ChromePluginConfig/master/SwitchyOmega/OmegaOptions.bak "OmegaOptions.bak")
 
     :new:最近更新: 2019/03/11
 
